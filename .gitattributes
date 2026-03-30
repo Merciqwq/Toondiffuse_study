@@ -1,0 +1,14 @@
+* text=auto
+
+*.cs text diff=csharp
+*.shader text
+*.hlsl text
+*.cginc text
+*.compute text
+*.unity text
+*.prefab text
+*.mat text
+*.asset text
+*.meta text
+*.json text
+*.md text
