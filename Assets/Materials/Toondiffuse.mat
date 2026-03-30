@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Toondiffuse
-  m_Shader: {fileID: 4800000, guid: 2c6174daf85514a1da6a673e5d0bc175, type: 3}
+  m_Shader: {fileID: 4800000, guid: b0a277a0236bd3d4c9c75a03b84a3f2b, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -79,6 +79,9 @@ Material:
     - _ShadowSoftness: 0.05
     - _ShadowThreshold: 0.5
     - _SmoothnessTextureChannel: 0
+    - _SpecPower: 32
+    - _SpecSoftness: 0.05
+    - _SpecThreshold: 0.5
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
@@ -88,4 +91,5 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _ShadowColor: {r: 0.7, g: 0.7, b: 0.7, a: 1}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
